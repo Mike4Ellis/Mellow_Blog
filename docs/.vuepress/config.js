@@ -1,4 +1,5 @@
 module.exports = {
+  "base": "/Mellow_Blog/",
   "title": "Mellow's Blog",
   "description": "Trust The Process",
   "dest": "public",
