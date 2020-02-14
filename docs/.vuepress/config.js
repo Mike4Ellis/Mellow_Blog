@@ -1,5 +1,5 @@
 module.exports = {
-  // base: '/Mellow_Blog/',
+  base: '/Mellow_Blog/',
   head: [
     [
 		'link', { 
