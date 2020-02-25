@@ -25,6 +25,7 @@ module.exports = {
         navs: [
             {text: '编程那点事', link: '/program/'},
             {text: '自然语言处理', link: '/nlp/'},
+            {text: '心理学', link: '/psychology/'},
         ],
         links: [
             {

@@ -15,7 +15,7 @@ meta:
 
 ## Self introduction
 
-Ten thousand words are omitted here ...
+Trust The Process！
 
 ---
 ```
