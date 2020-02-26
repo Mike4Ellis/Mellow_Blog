@@ -1,4 +1,3 @@
-```markdown
 ---
 
 title: NLP
@@ -10,5 +9,4 @@ meta:
     content: NLP
 
 ---
-```
 
