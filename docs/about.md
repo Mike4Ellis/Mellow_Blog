@@ -1,4 +1,3 @@
-```markdown
 ---
 
 title: About
@@ -18,4 +17,3 @@ meta:
 Trust The Process！
 
 ---
-```

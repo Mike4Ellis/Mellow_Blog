@@ -1,4 +1,3 @@
-```markdown
 ---
 
 title: Timeline
@@ -10,4 +9,3 @@ meta:
     content: timeline
 
 ---
-```

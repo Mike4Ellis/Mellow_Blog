@@ -1,3 +1,30 @@
+---
+
+title: 10分钟速成课:心理学 EP3 The Chemical Mind
+
+meta: 
+  - name: description
+    content: EP3 The Chemical Mind
+  - name: keywords
+    content: Psychology
+
+created: 2020/02/22
+
+updated: 2020/02/22
+
+tags:
+  - Psychology
+
+banner: /arimura_2.jpg
+
+password: false
+
+discuss: false
+
+copyright: Reprinting is allowed, the original link must be retained, and the copyright belongs to the blogger
+
+---
+
 ## EP3 The Chemical Mind
 
 ### 所有的心理活动都是生理活动
@@ -135,4 +162,3 @@ The famous fight or flight hormones
 
 反馈循环 Feedback Loop：
 神经系统指挥内分泌系统，内分泌系统又反过来指挥神经系统。
-

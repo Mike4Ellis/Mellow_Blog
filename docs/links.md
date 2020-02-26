@@ -1,4 +1,3 @@
-```markdown
 ---
 
 title: Links
@@ -10,4 +9,3 @@ meta:
     content: links
 
 ---
-```

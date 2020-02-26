@@ -1,3 +1,30 @@
+---
+
+title: 10分钟速成课:心理学 EP4 Know Your Brain
+
+meta: 
+  - name: description
+    content: EP4 Know Your Brain
+  - name: keywords
+    content: Psychology
+
+created: 2020/02/25
+
+updated: 2020/02/25
+
+tags:
+  - Psychology
+
+banner: /arimura_3.jpg
+
+password: false
+
+discuss: false
+
+copyright: Reprinting is allowed, the original link must be retained, and the copyright belongs to the blogger
+
+---
+
 ## EP4 Know Your Brain
 
 ### 颅相学的启发

@@ -1,13 +1,12 @@
-```markdown
 ---
 
-title: [10分钟速成课:心理学]EP2 Research & Experimentation
+title: 10分钟速成课:心理学 EP2 Research & Experimentation
 
 meta:
   - name: description
     content: EP2 Research & Experimentation
   - name: keywords
-    content: psychology
+    content: Psychology
 
 created: 2020/02/20
 
@@ -16,7 +15,7 @@ updated: 2020/02/20
 tags:
   - Psychology
 
-banner: default
+banner: /arimura_1.jpg
 
 password: false
 
@@ -115,7 +114,6 @@ copyright: Reprinting is allowed, the original link must be retained, and the co
 
 由于我们用明确的语言定义了参数，其他人可以很容易地复制这个实验。
 我们可以集中所有的数据，从而得出一些结论。
-
 
 
 
